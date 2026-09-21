@@ -34,6 +34,7 @@ assimp.pc
 assimp.aps
 revision.h
 contrib/zlib/zconf.h
+contrib/zlib/zconf.h.included
 contrib/zlib/zlib.pc
 include/assimp/config.h
 unit.vcxproj.user
